@@ -1,15 +1,15 @@
 .container{
     text-align: center;
-    margin-top:23px
+    margin-top: 30px;
 }
 
 table{
-    margin: auto;
+    margin: center;
 }
 
 input{
     border-radius: 21px;
-    border: 5px solid #244624;
+    border: 5px solid #3b3d3b;
     font-size: 34px;
     height: 65px;
     width: 456px;
@@ -18,17 +18,17 @@ input{
 button{
     border-radius: 20px;
     font-size: 40px;
-    background: #807b85;
-    height: 90px;
-    width: 102px;
+    background: #7d7981;
+    height: 80px;
+    width: 90px;
     margin: 6px;
 }
 
 .calculator{
-    border: 40px solid #08576e;
-    background-color:#7db8e7;
+    border: 20px solid #6c7b83;
+    background-color:#3e4e5c;
     padding: 23px;
-    border-radius: 53px;
+    border-radius: 50px;
     display: inline-block;
 }
 
